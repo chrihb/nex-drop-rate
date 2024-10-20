@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Nex Drop Rate
+Tracks average drop rates and contribution at Nex
