@@ -19,7 +19,7 @@ import net.runelite.client.ui.overlay.OverlayManager;
 @Slf4j
 @PluginDescriptor(
 	name = "Nex Drop Rate",
-	description = "Tracks average drop rates from Nex",
+	description = "Tracks average drop rates and contribution at Nex",
 	tags = {"combat", "droprate", "tracking"}
 )
 
